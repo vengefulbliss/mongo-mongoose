@@ -1,0 +1,42 @@
+body{text-align: center;}
+html {overflow: -moz-scrollbars-vertical;overflow-y: scroll;}
+.container {
+	background-color: #42e5f4
+}
+
+.logo {
+  text-align: center;
+  width:219px;
+  height:81px;
+  margin-top: 20px;
+}
+
+.dataTitle{
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.boxStyle {
+  margin-left:120px;
+  margin-bottom:30px;
+  width: 300px;
+  height:200px;
+  padding: 2px;
+  border-bottom: 2px solid blue;
+}
+
+.boxStyle:hover {
+  width: 300px;
+  height:200px;
+  padding: 2px;
+  border-bottom: 5px solid blue;
+}
+
+#buttonWrapper {
+  margin-bottom: 50px;
+}
+
+#intro {
+  background-color: #42e5f4;
+  padding: 20px;
+}
